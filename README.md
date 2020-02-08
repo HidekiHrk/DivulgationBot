@@ -4,7 +4,7 @@
 digite div em um chat qualquer em um servidor que o bot esteja, e ele irá divulgar dentro do servidor cujo id está presente na config. Para isso funcionar, o seu id deverá estar na lista de ids "adms" na config.
 
 ### Configuração:
-```json
+```js
 {
     "token":"token", // token do seu bot
     "server_id":123456789123456789, // id do servidor que você quer divulgar
